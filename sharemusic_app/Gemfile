@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
+# Use Devise service (2018.04.12)
+gem 'devise'
+gem 'devise-bootstrap-views'
+gem 'devise-i18n'
+gem 'devise-i18n-views'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
